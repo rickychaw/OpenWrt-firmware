@@ -1,3 +1,4 @@
+CMCC-RAX3000M_NAND
 CONFIG_TARGET_mediatek=y
 CONFIG_TARGET_mediatek_mt7981=y
 #默认编译
