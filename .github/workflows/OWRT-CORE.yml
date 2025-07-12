@@ -85,7 +85,7 @@ jobs:
       - name: Load custom feeds
         run: |
           cd ./owrt
-          echo 'src-git smpackage https://github.com/kenzok8/small-package' >> feeds.conf.default
+          echo 'src-git smpackage https://github.com/rickychaw/small-package' >> feeds.conf.default
 
       - name: Update Feeds
         run: |
